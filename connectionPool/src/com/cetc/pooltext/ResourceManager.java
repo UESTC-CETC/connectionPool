@@ -1,5 +1,7 @@
 package com.cetc.pooltext;
-
+/**
+ * read the resource.properties
+ */
 import java.util.ResourceBundle;
 
 public class ResourceManager {
